@@ -20,6 +20,7 @@ gem 'simple_form'
 gem 'figaro'
 gem 'devise', '~> 4.4', '>= 4.4.3'
 gem 'activeadmin'
+gem 'active_skin'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
